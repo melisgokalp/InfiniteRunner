@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Runner Game", "Space Runner Game.csproj", "{202C32E8-56D6-4D4D-A822-28BFAEC5D0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Runner Game.Plugins", "Space Runner Game.Plugins.csproj", "{E83FA091-33E9-FCA5-CEAC-39F96BB90062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Runner Game.Editor.Plugins", "Space Runner Game.Editor.Plugins.csproj", "{C21A3786-3ACE-0CE6-EA70-CEFD15A3387E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202C32E8-56D6-4D4D-A822-28BFAEC5D0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202C32E8-56D6-4D4D-A822-28BFAEC5D0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202C32E8-56D6-4D4D-A822-28BFAEC5D0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202C32E8-56D6-4D4D-A822-28BFAEC5D0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83FA091-33E9-FCA5-CEAC-39F96BB90062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83FA091-33E9-FCA5-CEAC-39F96BB90062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83FA091-33E9-FCA5-CEAC-39F96BB90062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83FA091-33E9-FCA5-CEAC-39F96BB90062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21A3786-3ACE-0CE6-EA70-CEFD15A3387E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21A3786-3ACE-0CE6-EA70-CEFD15A3387E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21A3786-3ACE-0CE6-EA70-CEFD15A3387E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21A3786-3ACE-0CE6-EA70-CEFD15A3387E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
